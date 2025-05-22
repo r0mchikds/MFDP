@@ -1,0 +1,9 @@
+/venv
+/ml_model/.ipynb_checkpoints
+/ml_model/catboost_info
+/ml_model/pipeline_log.txt
+/ml_model/run.txt
+.python-version
+*.csv
+*.gz
+/ml_model/data/images
